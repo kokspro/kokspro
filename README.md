@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end Web Development.
 - 🌱 I’m currently learning how to make my portfolio website.
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me at koks.programming@gmail.com.
+- 📫 You can reach me at thatdadgaming@gmail.com
 
 <!---
 kokspro/kokspro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
